@@ -1,5 +1,27 @@
 # GraphContrast-IoT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625406.svg)](https://doi.org/10.5281/zenodo.20625406)
+
+## Citation & DOI
+
+The official archived release of **GraphContrast-IoT** is available on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.20625406
+
+If you use this software, codebase, or methodology in your research, please cite:
+
+```bibtex
+@software{GraphContrastIoT2026,
+  author = {Mahendra Somu},
+  title = {GraphContrast-IoT: A Contrastive Self-Supervised GCT-ADNet Framework for Robust Time-Series Anomaly Detection in IoT Sensor Data},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.20625406},
+  url = {https://doi.org/10.5281/zenodo.20625406}
+}
+```
+# GraphContrast-IoT
+
 ## GraphContrast-IoT: A Contrastive Self-Supervised GCT-ADNet Framework for Robust Time-Series Anomaly Detection in IoT Sensor Data
 
 ### Overview
