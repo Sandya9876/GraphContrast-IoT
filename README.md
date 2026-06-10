@@ -227,9 +227,6 @@ python experiments/ablation_study.py
 * Smart Manufacturing
 * Critical Infrastructure Protection
 * Cyber-Physical Security
-* Predictive Maintenance
-* Sensor Fault Detection
-* Industrial Process Monitoring
 
 ---
 
