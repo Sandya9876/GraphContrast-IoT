@@ -1,0 +1,45 @@
+dataset:
+  name: SKAB
+  raw_dir: data/raw/SKAB
+  file_pattern: "*.csv"
+  label_column: null
+  allow_synthetic: true
+  test_size: 0.30
+  val_size: 0.15
+  window_size: 60
+  stride: 10
+  normalize: standard
+
+graph:
+  alpha: 1.0
+  threshold: 0.30
+  top_k: 5
+  use_absolute_corr: true
+  topology_file: null
+
+model:
+  graph_type: gcn
+  temporal_type: gru
+  input_dim: 1
+  hidden_dim: 128
+  embedding_dim: 64
+  gnn_layers: 2
+  dropout: 0.30
+
+training:
+  epochs: 30
+  batch_size: 64
+  learning_rate: 0.001
+  temperature: 0.2
+  patience: 8
+  seeds: [42, 123, 2024]
+  device: auto
+
+augmentation:
+  sensor_dropout: 0.10
+  noise_std: 0.02
+  time_jitter: 2
+  edge_dropout: 0.05
+
+detection:
+  threshold_k: 3.0
