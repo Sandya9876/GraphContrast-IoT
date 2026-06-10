@@ -80,7 +80,7 @@ Detected Anomalies
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/GraphContrast-IoT.git
+git clone https://github.com/Sandya9876/GraphContrast-IoT
 
 cd GraphContrast-IoT
 ```
