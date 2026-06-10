@@ -234,8 +234,6 @@ python experiments/ablation_study.py
 ```bibtex
 @article{GraphContrastIoT2026,
   title={GraphContrast-IoT: A Contrastive Self-Supervised GCT-ADNet Framework for Robust Time-Series Anomaly Detection in IoT Sensor Data},
-  author={Author Name},
-  journal={Under Review},
   year={2026}
 }
 ```
@@ -248,10 +246,5 @@ This project is released under the MIT License.
 
 ---
 
-## Contact
 
-For research collaborations, implementation support, or reproducibility inquiries:
 
-**Author:** Your Name
-**Email:** [your_email@example.com](mailto:your_email@example.com)
-**Institution:** Your Institution
