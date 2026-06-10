@@ -1,9 +1,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625406.svg)](https://doi.org/10.5281/zenodo.20625406)
 
-## Citation & DOI
 
-```
 # GraphContrast-IoT
 
 ## GraphContrast-IoT: A Contrastive Self-Supervised GCT-ADNet Framework for Robust Time-Series Anomaly Detection in IoT Sensor Data
